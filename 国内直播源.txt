@@ -2657,7 +2657,7 @@ http://222.169.85.8:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$
 http://dqy12.org/hls/1/index.m3u8
 #EXTINF:-1 group-title="韩国",KBS2
 http://dqy12.org/hls/2/index.m3u8
-#EXTINF:-1 group-title=,"韩国",SBS
+#EXTINF:-1 group-title="韩国",SBS
 http://dqy12.org/hls/3/index.m3u8
 #EXTINF:-1 group-title="韩国",MBC
 http://dqy12.org/hls/4/index.m3u8
