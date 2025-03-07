@@ -2691,3 +2691,79 @@ http://dqy12.org/hls/26/index.m3u8
 http://dqy12.org/hls/28/index.m3u8
 #EXTINF:-1 group-title="韩国",CH W
 http://dqy12.org/hls/30/index.m3u8
+{
+		"group": "한국-종합편성",
+		"logo": "https://kenpark76.github.io/logo/tvN SHOW.png",
+		"name": "tvN SHOW",
+		"title": "tvN SHOW",
+		"uris": ["https://tvnshow-mcdn.tving.com/tvnshow/live2000.smil/playlist.m3u8"],
+		"headers": {
+			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly90dm5zaG93LW1jZG4udHZpbmcuY29tL3R2bnNob3cvbGl2ZTIwMDAuc21pbCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDA5OTM1NDd9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19; CloudFront-Signature=cIQfmFnKW5UtD3gVIkkd19HYWqwfVydP1XLHP7NzOOqeSab4-ECFu3bZQr5C9Hs6OT3sNhTjee8aAaYSBaV3WCdEuhPiV0SXdiExYODborZnlLeRrT3mAHiNZOTVFMNX3TaBqPCX2lMH5yLmjpoTSjKdG4XFM2i7ecUOo-k5MNu1maMTCBC6q8IJm41GmgKOG9oSt6nBCbVGVRgO862941jPVCX02D6agqo34S1I86uE4ckHVceUy5ksXZCcZbB~hbRggrDDdDMGtFsYJ~7vgF4wWZ-K9MVAUxWSMF5T4JkPZeInrPCkX4MCtZ8XYQtyadG2m-mU3c7PYpK1gxNr8g__; ",
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://kenpark76.github.io/logo/tvN DRAMA.png",
+		"name": "tvN DRAMA",
+		"title": "tvN DRAMA",
+		"uris": ["https://tvndrama-mcdn.tving.com/tvndrama/live2000.smil/chunklist_b2128000.m3u8"],
+		"headers": {
+			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly90dm5kcmFtYS1tY2RuLnR2aW5nLmNvbS90dm5kcmFtYS9saXZlMjAwMC5zbWlsKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MDk5MzY3OX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_; CloudFront-Signature=b-ZbTRj-gZ7xEuX9wpNBe-Kl03Igh1rsztFklVcZtEpg7Vm8YdnPMoBdsajdNBM-4c3Eaqm-a08yQHiCwO41zGFqHhWiBlrVfLSMCDdwJMY4buoQEBXqvLIGPq1Bu9yUUbBbe4PswamWfnTGttGwXfTNT7nspSaAOuZp3TWjDuZCGgLwEItZMPsvUZs9ZyDnN6RLped5fPGR4xFM5C~5hoAkUDPSDUPoQcxYfB99QZbCmH139kKtC7XDTqKA~PbbQmzmgmP8IGLmA9Jxz~D4SqKSBBNSGCacDpnclIuSWV1cHDokCDbH6uKuefRIQsAlPz5n4dvSK5cA3oEAqImITQ__; ",
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://kenpark76.github.io/logo/tvN STORY.png",
+		"name": "tvN STORY",
+		"title": "tvN STORY",
+		"uris": ["https://tvnstory-mcdn.tving.com/tvnstory/live2000.smil/chunklist_b2128000.m3u8"],
+		"headers": {
+			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly90dm5zdG9yeS1tY2RuLnR2aW5nLmNvbS90dm5zdG9yeS9saXZlMjAwMC5zbWlsKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MDk5MzgxMX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_; CloudFront-Signature=GOQERRd3wb~u~SsbJI1WldkeRT57XkLsbmzBaD2ARo7GfnRazeLXuDOV8spcO~ZAJ~-V1g47bTaoya-iS0E6IwONoW5hLIJ7ol~iJWowm3CnPfUTCs24DYOHy9SqccTIM6sLtSB3flpnzDb5dlahT32gfC8PI17XtygVZhjBfa2-9I2H9ApRpJNMO1~DyTMtqyEdUIjTfmW4UrF41hs1fhgwyC-NZO4xIO5t-kosGDCcl4SbTVMu5nqB1ghow7ieT1xyifGyw1SK8kUv4IK099j25LgltQxo48uW1j2TbMff1wS9EKMrSi7YPAQv82gVKW3vana9VrS2PYp-tuiLSg__; ",
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://kenpark76.github.io/logo/채널A.png",
+		"name": "채널A",
+		"title": "채널A",
+		"uris": ["https://cha-mcdn.tving.com/cha/live2000.smil/chunklist_b2128000.m3u8"],
+		"headers": {
+			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9jaGEtbWNkbi50dmluZy5jb20vY2hhL2xpdmUyMDAwLnNtaWwqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzQwOTkzOTQ0fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; CloudFront-Signature=TZ5gTddmsS3BBp4cR5JwAsgvX30RecMagfwT2jNekhYgF97yFUurPZxy4GJlTLs2O5hJzmP9Hqr3misLodcUzoYH2m2BHGmGTTNC0HL67YIaaFPaLWxbm~toazImzjWWh0Lm72cM-l~xQDaq8m7jLrZkIFmWvii4YZlltpNZ6nOi0QyNagL94hEtsSPDMj-k3aUi2Pdn9VVqP7HtkJLSa~NTFFKZUW2bbrrJu1U~HxKkl8DsIPxgTH~magaK1Lw5QXS08guja9iO3PMAXXOI3lbhk2ZantAYL2P774N~6RWG-iLVsZFnC-k8r2BYQ-4KezalpJAQFDHOl9eL7Ru3MA__; ",
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://kenpark76.github.io/logo/채널A플러스.png",
+		"name": "채널A플러스",
+		"title": "채널A플러스",
+		"uris": ["https://chaplus-mcdn.tving.com/chaplus/live2000.smil/chunklist_b2128000.m3u8"],
+		"headers": {
+			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9jaGFwbHVzLW1jZG4udHZpbmcuY29tL2NoYXBsdXMvbGl2ZTIwMDAuc21pbCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDA5OTQwODF9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19; CloudFront-Signature=dR5NSiMTKgUP-iK7JeQD4IAftg8YcVBRpFa~0zFesTJwHeD1-U0PcuZ7h0Vyr4nnPBNIWQDFLwpevk1oiMlLbGpBfdwmhrCy9PQqz-CmAd9PlFsRcjEnTZeQDJ0Ylnn~a-AXlk2rpQKWlUNwNyjzCfWXl44ffc1Tsw8sFzfSV5a6qxkArtGO3vQJga1SofKPDGiI~~p66tvrE1yN5t35EXorrHGpcyGWkn8ZcM6TFfrSwpHUpHW-qVTQhCoPdEED7-4cn8r~N3e6bzjaQIZp45HbcFOjgWeFJr79QF~9eVL9sxyx8pq82ZQslzeKQKbA-8MF4u5Gq~4RnOfaK6TO7g__; ",
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://kenpark76.github.io/logo/TV CHOSUN.png",
+		"name": "TV CHOSUN",
+		"title": "TV CHOSUN",
+		"uris": ["https://chosun-mcdn.tving.com/chosun/live2000.smil/chunklist_b2128000.m3u8"],
+		"headers": {
+			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9jaG9zdW4tbWNkbi50dmluZy5jb20vY2hvc3VuL2xpdmUyMDAwLnNtaWwqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzQwOTk0MjA4fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; CloudFront-Signature=fWmha5t7Gha5iwWofktVFZ8oLJyb1mWfQmtiNa11jTmbtODydZorN84d5lWTm-80YIM3c4hf35CzDPAbDrV1fHoW~rff306lowXFxxOyGP7ZF~lkAHTvaOYnBOt9BwPA1cDuRCkTquP8h8eud1qYK5yhFuU-2NDUQIJhsHNFcSwU2bVVcrTEe6MWzvCIpozUPSDtSbCT-~BLl0vIh-AZT1d9pIn0umEoQ1N~-oKLTYVyMBSvhI7Iv~Rknuvmln6gHirTPb8J627LLGZpXx9cyOUJ06NYKwbwHh~MK8m2WE28s4itnHdel0PPjhi-GymAopalwb-2LBoLiaQjYAk9LA__; ",
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://kenpark76.github.io/logo/TV CHOSUN 2.png",
+		"name": "TV CHOSUN 2",
+		"title": "TV CHOSUN 2",
+		"uris": ["https://chosun2-mcdn.tving.com/chosun2/live2000.smil/chunklist_b2128000.m3u8"],
+		"headers": {
+			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9jaG9zdW4yLW1jZG4udHZpbmcuY29tL2Nob3N1bjIvbGl2ZTIwMDAuc21pbCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDA5OTQzNDR9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19; CloudFront-Signature=LbMWjkdAc4zkdiEt0JAwPV6n3wFlNjv51vzEukwO0F7FPsB1k045NVDL6rsbfRBj-Id-NXvCbTlza95N2A18pi8f53GCExYPfPJ3NdLHgoGyC40EOtRoD82TFhnSK7wXvBO0~Ny3KTdJqjTPZdmbnk6ewGgoT2dNmLcfBp9AB28-phwndcxEpElxHzOBS3Fs0~fbjVInUfKHD6r49AshHkdJlHFTn4q46SMZll3J3LVvXRrOqdjCpYOwY977UnGLCAhhlytjbym6ibRqM8IeU6mzQ0KFIPrdP7bz6XOpuF7KZqg3lwC5pqXggfndGHsu-k9V~UoIqfbMM9ApHbvObQ__; ",
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
