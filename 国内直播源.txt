@@ -2653,181 +2653,49 @@ http://39.164.180.36:19901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=
 http://112.6.165.112:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路184』
 #EXTINF:-1 group-title="央视频道",CCTV2
 http://222.169.85.8:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路251
-#EXTINF:-1 group-title= "未分类“，KBS1
-http://mytv.dothome.co.kr/ch/public/1.php/.m3u8
-#EXTINF:-1 group-title= "未分类“，KBS1
-http://221.148.26.130:9981/stream/channelid/111?ticket=A64084630DD3AB457054095EDC5A4A467A6BCEF3
-#EXTINF:-1 group-title= "未分类“，KBS1
-http://119.66.83.26:9981/stream/channelid/19?ticket=576A5AFB9BBA17C46F9D7458F3295BD66D160ADA
-#EXTINF:-1 group-title= "未分类“，KBS1
-http://live-edge-th136.myjktv.com/watch/live.m3u8?video=kbs1_540&sid=QNwU6Hlhm0iQWWfUrQ0b67VXds4sj4p3obr6MFdt&secret=1ac1dd83e3cd7930bf87e5c1fbe713df&time=1696828302
-#EXTINF:-1 group-title= "未分类"，KBS2
-http://mytv.dothome.co.kr/ch/public/3.php/.m3u8
-#EXTINF:-1 group-title= "未分类"，KBS2
-http://221.148.26.130:9981/stream/channelid/113?ticket=DE955E8274ED66A57E7DFF2CE5E52F4AABE66D26
-#EXTINF:-1 group-title= "未分类"，KBS2
-http://119.66.83.26:9981/stream/channelid/18?ticket=085E70D130B517A832852424C2EC9EF606F146D0
-#EXTINF:-1 group-title= "未分类"，KBS2
-http://live-edge-th136.myjktv.com/watch/live.m3u8?video=kbs2_540&sid=RbbcTZHmEnlKeN3sgMEKARGXKdWqnbz9ADgNNU7i&secret=dcc9a9d6b45c309e4a725322381e4dae&time=1696828290
-#EXTINF:-1 group-title= "未分类“，MBC
-http://live-edge-th136.myjktv.com/watch/live.m3u8?video=mbc_540&sid=Goq6ILESrcaM2Hi4vnr7bNx400cW1BcP9Jmv1Xh1&secret=a354329c49edea258c73d3c2895f67fb&time=1696828264
-#EXTINF:-1 group-title= "未分类“，MBC
-http://221.148.26.130:9981/stream/channelid/110?ticket=6A768F99634B693887B37B8670B83394C156DE18
-#EXTINF:-1 group-title= "未分类“，MBC
-http://5c482867a8b63.streamlock.net:1935/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title= "未分类“，MBC
-http://im89.modhospital.kr:9981/stream/channelid/116?ticket=E009A60B7DE03573424E9FE224F6DBEE3477FF0A
-#EXTINF:-1 group-title= "未分类“，SBS
-http://live-edge-th136.myjktv.com/watch/live.m3u8?video=sbs_540&sid=GGDC0gwz3QeUI0p2Z4RPOEsj7LGFSw61ci0Vh6Z0&secret=1196d46edb0e54cba5b5850c62672fae&time=1696828259
-#EXTINF:-1 group-title= "未分类“，SBS
-http://119.66.83.26:9981/stream/channelid/21?ticket=F2C493D4DD6D5C5630102C6C62619BE61A23D966
-#EXTINF:-1 group-title= "未分类“，SBS
-http://121.131.227.124:9981/stream/channelid/17?ticket=71A956851A3BAEF5A8D8205016C80D46B660CEDC
-#EXTINF:-1 group-title= "未分类“，SBS
-http://222.119.1.104:9981/stream/channelid/20?ticket=BC83D0F9E86A82F461952289FDCC6BF5293FEEAB
-#EXTINF:-1 group-title= "未分类“，JTBC
-http://live-edge-th136.myjktv.com/watch/live.m3u8?video=jtbc_540&sid=ZfYLmCS2LAVFGnzKz0qQJeKSYNxa40RdPCsZ5t8F&secret=cb8acc5493b139934dda859a6f729088&time=1696828247
-#EXTINF:-1 group-title= "未分类“，JTBC
-http://119.66.83.26:9981/stream/channelid/46?ticket=C2BCB89D133C7E10AE722991D5DB004C7D3CDE82
-#EXTINF:-1 group-title= "未分类“，JTBC
-http://221.148.26.130:9981/stream/channelid/71?ticket=253AF7C5CD929360E1900327765D32ADAA010B02
-#EXTINF:-1 group-title= "未分类“，JTBC
-http://222.119.1.104:9981/stream/channelid/25?ticket=6A160968B7257DDC4A08881FC4BFF8B021264D6B
-#EXTINF:-1 group-title= "未分类“，JTBC2
-http://221.148.26.130:9981/stream/channelid/88?ticket=F918C07228CCF6C6EEFBD3452BE5E4E8A3BC2D72
-#EXTINF:-1 group-title= "未分类“，JTBC2
-http://119.66.83.26:9981/stream/channelid/81?ticket=3B4D354D33B97893A9DA3E45522DCFAD36BE1174
-#EXTINF:-1 group-title= "未分类“，JTBC2
-http://49.167.236.190:9981/stream/channelid/66?ticket=D59E7712C79392B5DB87A0DAB30AA4BCA18D0F90
-#EXTINF:-1 group-title= "未分类“，JTBC2
-http://222.119.1.104:9981/stream/channelid/77?ticket=46D2009133A6D545B4AAE85604000FDB75732B20
-#EXTINF:-1 group-title="Unclassified",TVN
-http://live-edge-th136.myjktv.com/watch/live.m3u8?video=tvn_540&sid=uORugilXcYkrTH4BM6yNLXjkHWB6ki7fRC45zEsC&secret=b4a84163ab39a494b8f68a3e55e12f54&time=1696829038
-#EXTINF:-1 group-title="Unclassified",TVN
-http://119.66.83.26:9981/stream/channelid/44?ticket=135B3F599554E41A89CC7E5F888550CB567C6C0F
-#EXTINF:-1 group-title="Unclassified",TVN
-http://222.119.1.104:9981/stream/channelid/35?ticket=61D0A8D71A934AE8DDE016833506B3D9E0FEC940
-#EXTINF:-1 group-title="Unclassified",TVN
-http://221.148.26.130:9981/stream/channelid/78?ticket=AF74E6CA31945AAEED5AB722ED217B0A86C62D7E
-#EXTINF:-1 group-title="Unclassified",TVN
-http://121.131.227.124:9981/stream/channelid/68?ticket=A6BCA9E3B5D2F237F6A4458E498C22A3BDDECD5E
-#EXTINF:-1 group-title="Unclassified",TVN
-http://221.148.26.130:9981/stream/channelid/55?ticket=6BFCD321B95DE83617461370F4C31E3F30AB1163
-#EXTINF:-1 group-title="Unclassified",TVN
-http://222.119.1.104:9981/stream/channelid/9?ticket=F6FF8FD4AE8DDF182C14D693366C03D38A7DCAF3
-#EXTINF:-1 group-title="Unclassified",TVN
-http://119.66.83.26:9981/stream/channelid/13?ticket=63D975806A3AD65D66F8517F06ADF6F9DEF9376C
-#EXTINF:-1 group-title= "未分类“，ENA
-http://live-edge-th136.myjktv.com/watch/live.m3u8?video=kbs_joy_540&sid=UdompaeFlHeZdiTECTQJe3505Xd0uxXB6cjj73Wo&secret=73e49712b92e281a72e545119483524a&time=1696769575
-#EXTINF:-1 group-title= "未分类“，ENA
-http://119.66.83.26:9981/stream/channelid/99?ticket=E337BA5CB806B36555AFAD5EBE1C93CF9186CF0B
-#EXTINF:-1 group-title= "未分类“，ENA
-http://221.148.26.130:9981/stream/channelid/6?ticket=FE3AF602E42CD9CED6F5513C5C3F0B65AC87837E
-#EXTINF:-1 group-title= "未分类“，ENA
-http://222.119.1.104:9981/stream/channelid/98?ticket=AC84B72972BD4B3121EC2FC99D889283AE7B7239
-#EXTINF:-1 group-title= "未分类“,OCN무비
-http://119.66.83.26:9981/stream/channelid/45?ticket=40C11CAA9755C4592EE3236E82A1755043C3A556
-#EXTINF:-1 group-title= "未分类“,OCN무비
-http://221.148.26.130:9981/stream/channelid/38?ticket=39F03F2CE5F1E3F1A571BB5AED4A329FFD5E82D3
-#EXTINF:-1 group-title= "未分类“,OCN무비
-http://222.119.1.104:9981/stream/channelid/39?ticket=032429B9C5F8D99045BEB4E30E89B4568BB08E29
-#EXTINF:-1 group-title= "未分类“,OCN무비2
-http://live-edge-th136.myjktv.com/watch/live.m3u8?video=super_action_540&sid=mQcxOkZZUXjEEL12NiM5po2XJpDmUrSa8lE3EauO&secret=54e92c800b39c4b4250b8cb4abe7e934&time=1696829529
-#EXTINF:-1 group-title= "未分类“,OCN무비2
-http://221.148.26.130:9981/stream/channelid/13?ticket=428549B316D55E21DB45E7E3B4474E54A801920A
-#EXTINF:-1 group-title= "未分类“,OCN무비2
-http://119.66.83.26:9981/stream/channelid/86?ticket=2CDB712EB2E14F7FC80E4930C13586359862068C
-#EXTINF:-1 group-title= "未分类“,OCN무비2
-http://222.119.1.104:9981/stream/channelid/49?ticket=EA0CDB1B83BCF0D7FF6C8CF0CF24F3D6FE800204
-#EXTINF:-1 group-title= "未分类“，CNTV
-http://221.148.26.130:9981/stream/channelid/5?ticket=A7B3FFE8211DD9FCE7B557FEA73CDF974C79A6B3
-#EXTINF:-1 group-title= "未分类“，CNTV
-http://119.66.83.26:9981/stream/channelid/73?ticket=23D4F8F3B58ACD48B504260E8EFE6F28191A67B6
-#EXTINF:-1 group-title= "未分类“，CNTV
-http://222.119.1.104:9981/stream/channelid/94?ticket=64CE7CCAD3F9755B70DAC7092B357FC18A478137
-#EXTINF:-1 group-title= "未分类“，CNTV
-http://121.131.227.124:9981/stream/channelid/59?ticket=F0929B0719087ED44FBA86408EC82524C4FEF8DA
-#EXTINF:-1 group-title= "未分类“，EDGE TV
-http://221.148.26.130:9981/stream/channelid/11?ticket=492E13819C421DE5258A6D84C47DFEE7F57DC9C5
-#EXTINF:-1 group-title= "未分类“，EDGE TV
-http://119.66.83.26:9981/stream/channelid/104?ticket=E4461855C336CC01644CA43B3338BEBC09A31459
-#EXTINF:-1 group-title= "未分类“，EDGE TV
-http://121.131.227.124:9981/stream/channelid/93?ticket=76F0B6D6F78DCF4BED219D3255DF4A8515034BCE
-#EXTINF:-1 group-title= "未分类“，EDGE TV
-http://121.152.147.24:9981/stream/channelid/71?ticket=7447FDCF79D0C6EDDB0118FC218786E2BEE95BFE
-#EXTINF:-1 group-title= "未分类“，MNET
-http://live-edge-th136.myjktv.com/watch/live.m3u8?video=mnet_540&sid=AsOLt6M8ZibJtg41QQpS1IOVyHo14N20vc5yOfxg&secret=de5e27a1dd05628fab9474b600aed6de&time=1696829052
-#EXTINF:-1 group-title= "未分类“，MNET
-http://221.148.26.130:9981/stream/channelid/83?ticket=298094577D58FDD06FD13C3C2B37976C1BC5D04E
-#EXTINF:-1 group-title= "未分类“，MNET
-http://49.167.236.190:9981/stream/channelid/49?ticket=46AFC239256CD00EA71B32257A06BA85D8DE06A6
-#EXTINF:-1 group-title= "未分类“，MNET
-http://222.119.1.104:9981/stream/channelid/47?ticket=13C7659F294A03041D6CB4B8AE695CA4383D1E05
-#EXTINF:-1 group-title= "未分类",조선중앙방송
-https://tv.nknews.org/tvdash/stream.mpd
-#EXTINF:-1 group-title= "未分类“，YTN
-http://live-edge-th136.myjktv.com/watch/live.m3u8?video=ytn_540&sid=JVCqCu4Fc9b9TDEAtClSzd03mkNmwvdKFhxr07Qs&secret=3e812b3659dcccff388d8ddb21f59c66&time=1696421919
-#EXTINF:-1 group-title= "未分类“，YTN
-http://121.131.227.124:9981/stream/channelid/47?ticket=1D2AEECDAECD421E55D3BA1B8630A8DDA8F159EE
-#EXTINF:-1 group-title= "未分类“，YTN
-http://221.148.26.130:9981/stream/channelid/31?ticket=19D552F8D4CAFEB8D2B000F79133DE43AA361109
-#EXTINF:-1 group-title= "未分类“，YTN
-http://222.119.1.104:9981/stream/channelid/44?ticket=CFFEEAC18C746BB61D2E0CF6B919C6F774E1E5BC
-#EXTINF:-1 group-title= "未分类",연합뉴스
-http://live-edge-th136.myjktv.com/watch/live.m3u8?video=newsy_540&sid=aMAYwrglW2l9anHE3tYS8r8mdHIK9eoLvfM8gz8k&secret=bdb9ae84defc939403a2fbc11cb0007a&time=1696422007
-#EXTINF:-1 group-title= "未分类",연합뉴스
-http://221.148.26.130:9981/stream/channelid/30?ticket=9A80DA05729F67947BD3102B790F967D49708339
-#EXTINF:-1 group-title= "未分类",연합뉴스
-http://121.131.227.124:9981/stream/channelid/46?ticket=9389780BD5D2A6922FD62083C7876102FAA74FB9
-#EXTINF:-1 group-title= "未分类",연합뉴스
-https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6tpj7htwv2prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 group-title= "未分类“，KBS1
+#EXTINF:-1 group-title= "韩国“，KBS1
 http://dqy12.org/hls/1/index.m3u8
-#EXTINF:-1 group-title= "未分类"，KBS2
+#EXTINF:-1 group-title= "韩国"，KBS2
 http://dqy12.org/hls/2/index.m3u8
-#EXTINF:-1 group-title= "未分类“，SBS
+#EXTINF:-1 group-title= "韩国“，SBS
 http://dqy12.org/hls/3/index.m3u8
-#EXTINF:-1 group-title= "未分类“，MBC
+#EXTINF:-1 group-title= "韩国“，MBC
 http://dqy12.org/hls/4/index.m3u8
-#EXTINF:-1 group-title= "未分类“，JTBC
+#EXTINF:-1 group-title= "韩国“，JTBC
 http://dqy12.org/hls/8/index.m3u8
-#EXTINF:-1 group-title= "未分类“，TVN
+#EXTINF:-1 group-title= "韩国“，TVN
 http://dqy12.org/hls/11/index.m3u8
-#EXTINF:-1 group-title= "未分类"，OBS
+#EXTINF:-1 group-title= "韩国"，OBS
 http://dqy12.org/hls/6/index.m3u8
-#EXTINF:-1 group-title= "未分类“，조선电视台
+#EXTINF:-1 group-title= "韩国“，朝鲜
 http://dqy12.org/hls/10/index.m3u8
-#EXTINF:-1 group-title= "未分类“，MBN
+#EXTINF:-1 group-title= "韩国“，MBN
 http://dqy12.org/hls/9/index.m3u8
-#EXTINF:-1 group-title= "未分类",연합뉴스
+#EXTINF:-1 group-title= "韩国",연합뉴스
 http://dqy12.org/hls/13/index.m3u8
-#EXTINF:-1 group-title= "未分类“，YTN
+#EXTINF:-1 group-title= "韩国“，YTN
 http://dqy12.org/hls/14/index.m3u8
-#EXTINF:-1 group-title= "未分类”，KBS乐了
-http://dqy12.org/hls/15/index.m3u8
-#EXTINF:-1 group-title= "未分类“，SBS PLUS
 http://dqy12.org/hls/16/index.m3u8
-#EXTINF:-1 group-title= "未分类“，MNET
+#EXTINF:-1 group-title= "韩国“，MNET
 http://dqy12.org/hls/18/index.m3u8
-#EXTINF:-1 group-title= "未分类“，TVN的故事
-http://dqy12.org/hls/12/index.m3u8
-#EXTINF:-1 group-title= "未分类“,MBC드라마
+#EXTINF:-1 group-title= "韩国“，TVN影视http://dqy12.org/hls/12/index.m3u8
+#EXTINF:-1 group-title= "韩国“,MBC电视剧
 http://dqy12.org/hls/19/index.m3u8
-#EXTINF:-1 group-title= "未分类“,KBS드라마
+#EXTINF:-1 group-title= "韩国“,KBS电视剧
 http://dqy12.org/hls/17/index.m3u8
-#EXTINF:-1 group-title= "未分类“，CNTV
+#EXTINF:-1 group-title= "韩国“，CNTV
 http://dqy12.org/hls/20/index.m3u8
-#EXTINF:-1 group-title= "未分类“，OCN
+#EXTINF:-1 group-title= "韩国“，OCN
 http://dqy12.org/hls/22/index.m3u8
-#EXTINF:-1 group-title= "未分类“,OCN무비
+#EXTINF:-1 group-title= "韩国“,OCN무비
 http://dqy12.org/hls/23/index.m3u8
-#EXTINF:-1 group-title= "未分类“,OCN무비2
+#EXTINF:-1 group-title= "韩国“,OCN무비2
 http://dqy12.org/hls/24/index.m3u8
-#EXTINF:-1 group-title= "未分类“，抓下去
+#EXTINF:-1 group-title= "韩国“，电影1
 http://dqy12.org/hls/25/index.m3u8
-#EXTINF:-1 group-title= "未分类”，屏幕
+#EXTINF:-1 group-title= "韩国”，电影2
 http://dqy12.org/hls/26/index.m3u8
-#EXTINF:-1 group-title= "未分类“，电影
+#EXTINF:-1 group-title= "韩国“，电影3
 http://dqy12.org/hls/28/index.m3u8
-#EXTINF:-1 group-title="Unclassified",CH W
+#EXTINF:-1 group-title="韩国",CH W
 http://dqy12.org/hls/30/index.m3u8
